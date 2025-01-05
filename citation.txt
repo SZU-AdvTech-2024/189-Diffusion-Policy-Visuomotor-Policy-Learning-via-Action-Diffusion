@@ -1,0 +1,6 @@
+@article{REPO189,
+    author = "Chi, Cheng and Xu, Zhenjia and Feng, Siyuan and Cousineau, Eric and Du, Yilun and Burchfiel, Benjamin and Tedrake, Russ and Song, Shuran",
+    journal = "The International Journal of Robotics Research",
+    title = "{Diffusion Policy: Visuomotor Policy Learning via Action Diffusion}",
+    year = "2024"
+}
